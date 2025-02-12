@@ -7,8 +7,4 @@ Ce dépôt contient mes exercices et projets d'entraînement en HTML, CSS et Jav
 - `javascript/` → Exercices en JavaScript  
 - `projets-persos/` → Projets plus avancés  
 
-## 🔧 Comment utiliser ce dépôt  
-1. **Cloner le dépôt**  
-   ```bash
-   git clone https://github.com/ton-user/git-entrainement.git
 
