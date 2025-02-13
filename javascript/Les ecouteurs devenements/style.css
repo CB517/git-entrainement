@@ -1,0 +1,15 @@
+.maDiv {
+    width: 100px;
+    height: 100px;
+    background: grey;
+}
+
+.spoiler {
+    background: black;
+    color:black;
+    cursor: pointer;
+}
+
+.spoiler::selection {
+    color: rgba(0, 0, 0, 0);
+}
