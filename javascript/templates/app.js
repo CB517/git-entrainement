@@ -1,5 +1,6 @@
 import { fetchJSON } from "./functions/api.js";
 import { CommentsList } from "/components/comments.js";
+import { createElement } from "/functions/dom.js";
 
 console.log("✅ comments.js est bien chargé !");
 
