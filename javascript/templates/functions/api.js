@@ -4,7 +4,6 @@ export async function fetchJSON(url, option = {}) {
 
     if (r.ok) {
         const rdata = await r.json();
-        console.log('Données JSON récupérées :', rdata); 
         return rdata;
     }
 
