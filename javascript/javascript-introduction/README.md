@@ -1,4 +1,4 @@
-# Learn Introductory JavaScript by Building a Pyramid Generator 𓁹△
+# Apprendre les bases de JavaScript en créant un générateur de pyramide 𓁹△
 
 Ce projet regroupe mes exercices et expérimentations sur les **bases de JavaScript** en construisant un générateur de pyramide. L'objectif est de pratiquer les **boucles, fonctions, conditions et manipulations de chaînes** pour renforcer ma compréhension des fondamentaux du langage.
 
@@ -23,18 +23,29 @@ Ce projet a été réalisé en suivant :
 ## 📖 Exemple d'affichage
 
 ✅ **Mode normal (`inverted = false`) avec `character = "*"`**
-     *
-    ***
-   *****
-  *******
- *********
-***********
+<pre>
+         *
+        ***
+       *****
+      *******
+     *********
+    ***********
+   *************
+  ***************
+ *****************
+*******************
+</pre>
 
-✅ **Mode inversé (`inverted = true`)  avec `character = "*"`**
-***********
- *********
-  *******
-   *****
-    ***
-     *
-
+✅ **Mode inversé (`inverted = true`) avec `character = "*"`**
+<pre>
+*******************
+ *****************
+  ***************
+   *************
+    ***********
+     *********
+      *******
+       *****
+        ***
+         *
+</pre>
