@@ -1,1 +1,13 @@
-# Projets personnel
+# 🚀 Personal Projects
+
+Ce dossier contient mes projets personnels réalisés en HTML, CSS et JavaScript. Ils me permettent de pratiquer et d'améliorer mes compétences en développement web.
+
+## 📌 Projets
+
+- **🐉 RPG - Dragon Repeller**  
+  Un jeu de rôle en JavaScript avec combats, gestion d’inventaire et exploration.
+
+- **📝 To-Do List**  
+  Une application simple pour ajouter, supprimer et marquer des tâches comme complétées.
+
+D'autres projets viendront enrichir cette collection au fil de mon apprentissage ! 🚀
