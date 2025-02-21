@@ -10,4 +10,7 @@ Ce dossier contient mes projets personnels réalisés en HTML, CSS et JavaScript
 - **📝 To-Do List**  
   Une application simple pour ajouter, supprimer et marquer des tâches comme complétées.
 
+- **🔥 Calorie Counter**  
+  Une application permettant de suivre son budget calorique quotidien avec calculs dynamiques et validation des entrées.
+
 D'autres projets viendront enrichir cette collection au fil de mon apprentissage ! 🚀
