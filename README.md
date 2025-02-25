@@ -5,6 +5,6 @@ Ce dépôt contient mes exercices et projets d'entraînement en HTML, CSS et Jav
 ## 📂 Structure du projet  
 - `html-css/` → Exercices en HTML et CSS  
 - `javascript/` → Exercices en JavaScript  
-- `projets-persos/` → Projets plus avancés  
+- `personal-projects/` → Projets plus avancés  
 
 
