@@ -3,50 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulaire d'Inscription & Connexion</title>
+    <title>Palindrome Checker</title>
     <link rel="stylesheet" href="./style.css">
+    <script src="./app.js" defer></script>
 </head>
 <body>
 
     <div class="form">
         <div class="tab-content">
-
-            <!-- Section Inscription -->
-            <div id="signup">   
-                <h1>Sign Up for Free</h1>
+            <div id="checker">   
+                <h1>Palindrome Checker</h1>
                 
-                <form action="/" method="post">
-                    <div class="field-wrap">
-                        <label>
-                            Email Address<span class="req">*</span>
-                        </label>
-                        <input type="email" required autocomplete="off">
-                    </div>
-                    
-                    <button type="submit" class="button button-block">Get Started</button>
-                </form>
-            </div> <!-- /signup -->
-
-            <!-- Section Connexion -->
-            <div id="login">   
-                <h1>Welcome Back!</h1>
+                <div class="field-wrap">
+                    <input type="text" id="text-input" required autocomplete="off" placeholder="Enter a word*">
+                </div>
                 
-                <form action="/" method="post">
-                    <div class="field-wrap">
-                        <label>
-                            Email Address<span class="req">*</span>
-                        </label>
-                        <input type="email" required autocomplete="off">
-                    </div>
+                <button type="button" class="button button-block check-btn">Check</button>
 
-                    <p class="forgot"><a href="#">Forgot Password?</a></p>
-                    
-                    <button type="submit" class="button button-block">Log In</button>
-                </form>
-            </div> <!-- /login -->
-
-        </div> <!-- /tab-content -->
-    </div> <!-- /form -->
+                <p id="result"></p>
+            </div> 
+        </div> 
+    </div> 
 
 </body>
 </html>
