@@ -12,5 +12,6 @@ Ce dossier regroupe mes exercices et entraînements en **JavaScript**, me permet
 - **🐞 debugging-exercises** – Exercices pour améliorer mes compétences en débogage  
 - **📂 templates** – Modèles réutilisables pour mes exercices  
 - **✂️ dom-game** – Jeu **Pierre-Feuille-Ciseaux** contre l'ordinateur avec gestion du DOM, score et affichage dynamique  
+- **🗓️ date-formatter** – Manipulation et formatage dynamique des dates avec l'objet `Date`  
 
 Je continuerai à enrichir ce dossier au fil de mon apprentissage ! 🚀  
