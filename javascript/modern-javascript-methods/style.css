@@ -1,0 +1,69 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --dark-grey: #0a0a23;
+  --light-grey: #c6c6c6;
+  --white: #ffffff;
+  --black: #000;
+    
+}
+
+body {
+background: linear-gradient(to bottom right, #002153 33%,white 33%, white 66%, #CF0822 66%);
+background-attachment: fixed;
+text-align: center;
+padding: 10px;
+height: 100vh;
+}
+
+.title,
+.options-label,
+.team-stats,
+footer {
+  color: var(--light-grey);
+  text-shadow: 1px 1px 0px var(--black);
+}
+
+.title {
+  margin: 1.3rem 0;
+}
+
+.team-stats {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-size: 1.3rem;
+  margin: 1.2rem 0;
+}
+
+.options-label {
+  font-size: 1.2rem;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.player-card {
+  background-color: var(--light-grey);
+  padding: 1.3rem;
+  margin: 1.2rem;
+  width: 300px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px 1px rgb(0, 0, 0);
+}
+
+@media (max-width: 768px) {
+  .team-stats {
+    flex-direction: column;
+  }
+}
