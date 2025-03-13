@@ -18,6 +18,9 @@ Ils me permettent de pratiquer et d'améliorer mes compétences en développemen
   Un lecteur MP3 interactif en JavaScript avec gestion de playlist, lecture/pause, chanson suivante/précédente et mode aléatoire.  
 
 - **🔁 Palindrome Checker**  
-  Une application qui vérifie si un mot est un palindrome, avec suppression des accents, chiffres et caractères spéciaux ainsi qu'une gestion des erreurs.
+  Une application qui vérifie si un mot est un palindrome, avec suppression des accents, chiffres et caractères spéciaux ainsi qu'une gestion des erreurs.  
+
+- **🔢 Roman Numeral Converter**  
+  Une application qui convertit un nombre entier en chiffres romains, prenant en charge des valeurs jusqu'à 1 000 000 et intégrant une gestion des erreurs.  
 
 D'autres projets viendront enrichir cette collection au fil de mon apprentissage ! 🚀  
