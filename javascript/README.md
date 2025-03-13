@@ -14,5 +14,6 @@ Ce dossier regroupe mes exercices et entraînements en **JavaScript**, me permet
 - **✂️ dom-game** – Jeu Pierre-Feuille-Ciseaux contre l'ordinateur avec gestion du DOM, score et affichage dynamique  
 - **🗓️ date-formatter** – Manipulation et formatage dynamique des dates avec l'objet Date  
 - **⚽ modern-javascript-methods** – Manipulation avancée du DOM, filtrage et tri de données  
+- **🔍 regular-expressions** – Apprentissage et application des regex pour détecter des modèles de texte et filtrer les spams  
 
 Je continuerai à enrichir ce dossier au fil de mon apprentissage ! 🚀  
