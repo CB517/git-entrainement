@@ -1,0 +1,76 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-y: scroll;
+}
+
+body {
+  background: #c1bdba;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.form {
+  background: rgba(19, 35, 47, 0.9);
+  padding: 40px;
+  max-width: 600px;
+  margin: 40px auto;
+  border-radius: 4px;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+  text-align: center;
+}
+
+h1 {
+  color: #ffffff;
+  font-weight: 300;
+  margin-bottom: 40px;
+}
+
+p#result {
+  color: #ffffff;
+  font-size: 1.5rem;
+  margin-top: 20px;
+  display: none; /* Caché par défaut */
+}
+
+input {
+  font-size: 22px;
+  width: 100%;
+  padding: 10px;
+  background: none;
+  border: 1px solid #a0b3b0;
+  color: #ffffff;
+  transition: border-color 0.25s ease;
+  text-align: center;
+}
+
+input:focus {
+  outline: 0;
+  border-color: #1ab188;
+}
+
+.field-wrap {
+  margin-bottom: 30px;
+}
+
+.button {
+  border: none;
+  padding: 15px 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  background: #1ab188;
+  color: #ffffff;
+  transition: background 0.5s ease;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.button:hover {
+  background: #159c77;
+}
