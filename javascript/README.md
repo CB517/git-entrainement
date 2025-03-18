@@ -16,5 +16,6 @@ Ce dossier regroupe mes exercices et entraînements en **JavaScript**, me permet
 - **⚽ modern-javascript-methods** – Manipulation avancée du DOM, filtrage et tri de données  
 - **🔍 regular-expressions** – Apprentissage et application des regex pour détecter des modèles de texte et filtrer les spams  
 - **🔢 basic-algorithmic-number-sorter** – Implémentation et comparaison des algorithmes de tri en JavaScript (Bubble Sort, Selection Sort, Insertion Sort)  
+- **📊 advanced-array-methods** – Calculateur statistique utilisant les méthodes avancées des tableaux (map, reduce, sort, etc.)  
 
 Je continuerai à enrichir ce dossier au fil de mon apprentissage ! 🚀  
